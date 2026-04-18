@@ -18,6 +18,7 @@ public class ExtentReporterNG {
 		System.out.println("Hi Git Hub Look Who is Back to Learn You");
 		reporter.config().setReportName("WebAutomationsResult");
 		reporter.config().setDocumentTitle("TestResults");
+		System.out.println("Heading on , amercan Guy modifs");
 		
 		ExtentReports extentReports = new ExtentReports();
 		extentReports = new ExtentReports();
