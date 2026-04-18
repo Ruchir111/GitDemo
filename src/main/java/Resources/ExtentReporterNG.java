@@ -19,6 +19,7 @@ public class ExtentReporterNG {
 		reporter.config().setReportName("WebAutomationsResult");
 		reporter.config().setDocumentTitle("TestResults");
 		System.out.println("Heading on , amercan Guy modifs");
+		System.out.println("Yes got the commit push");
 		
 		ExtentReports extentReports = new ExtentReports();
 		extentReports = new ExtentReports();
