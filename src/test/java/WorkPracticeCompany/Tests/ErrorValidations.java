@@ -14,5 +14,10 @@ public class ErrorValidations extends BaseTest {
 		Assert.assertEquals("", lp.getErrorMessage());
 		
 		System.out.println("Validated on time moving forward");
+		
+		System.out.println("Validated to develop branch	");
+		System.out.println("Validated on time moving forward on develop branch");
+		System.out.println("Validated on time moving on develop branch");
+		System.out.println("Lets talk about branch");
 	}
 }
