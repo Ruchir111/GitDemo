@@ -21,6 +21,12 @@ public class ExtentReporterNG {
 		System.out.println("Heading on , amercan Guy modifs");
 		System.out.println("Yes got the commit push");
 		
+
+		System.out.println("Validated to develop branch China	");
+		System.out.println("Validated on time moving forward on develop branch China");
+		System.out.println("Validated on time moving on develop branch commit 2 by china after pull request");
+		System.out.println("Lets talk about branch commit 2");
+		
 		ExtentReports extentReports = new ExtentReports();
 		extentReports = new ExtentReports();
 		extentReports.attachReporter(reporter);
